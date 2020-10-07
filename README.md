@@ -1,4 +1,4 @@
-# Webbutvecklingiii_Moment5
+# Webbutvecklingiii_Moment5.1
 
 Denna lösning och Git-repository går ut på att skapa en REST-API tjänst genom Objekt orienterad PHP som kan hantera CRUD-funktionalitet.
 Detta löste jag genom att bygga på från en föregående laboration i kursen Webbutveckling II när vi gjorde en gästbok och där använde oss av MySQLi för att hantera CRUD-funktionaliteten.
